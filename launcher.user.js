@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name        AposLauncher
-// @namespace   AposLauncher
+// @name        Gilang Alessandro BOT
+// @namespace   Gilang Alessandro BOT
 // @include     http://agar.io/*
 // @version     3.067
 // @grant       none
-// @author      http://www.twitch.tv/apostolique
+// @author      https://www.facebook.com/profile.php?id=100009973061328
 // ==/UserScript==
 
 var aposLauncherVersion = 3.067;
