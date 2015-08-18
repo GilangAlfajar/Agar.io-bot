@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        Gilang Alessandro	
+// @namespace   Gilang Alessandro
 // @include     http://agar.io/*
 // @version     3.562
 // @grant       none
 // @author      http://www.twitch.tv/apostolique
 // ==/UserScript==
 
-var aposBotVersion = 3.562;
+var Agar.Io Bot By:Gilang Versi = 3.562;
 
 //TODO: Team mode
 //      Detect when people are merging
