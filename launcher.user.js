@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        AposLauncher
+// @name        Gilang ALessandro
 // @namespace   AposLauncher
 // @include     http://agar.io/*
 // @version     3.067
