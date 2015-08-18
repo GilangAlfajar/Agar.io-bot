@@ -981,9 +981,9 @@ console.log("Running Bot Launcher!");
 
         var debugStrings = [];
         debugStrings.push("Current Bot: " + window.botList[botIndex][0]);
-        debugStrings.push("T - Bot: " + (!toggle ? "On" : "Off"));
-        debugStrings.push("R - Lines: " + (!toggleDraw ? "On" : "Off"));
-        debugStrings.push("Q - Follow Mouse: " + (toggleFollow ? "On" : "Off"));
+        debugStrings.push("T - Bot: " + (!toggle ? "Aktif" : "Mati"));
+        debugStrings.push("R - Lines: " + (!toggleDraw ? "Aktif" : "Mati"));
+        debugStrings.push("Q - Follow Mouse: " + (toggleFollow ? "Aktif" : "Mati"));
         debugStrings.push("S - Manual Cell: " + (selectedCell == 0 ? "None" : selectedCell) + " of " + getPlayer().length);
         debugStrings.push("");
         debugStrings.push("Best Score: " + ~~(sessionScore / 100));
@@ -1305,7 +1305,7 @@ console.log("Running Bot Launcher!");
                 dArc = [],
                 dText = [],
                 lines = [],
-                names = ["NotReallyABot"],
+                names = ["GilangAlessandro"],
                 originalName = names[Math.floor(Math.random() * names.length)],
                 sessionScore = 0,
                 serverIP = "",
